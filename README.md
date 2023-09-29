@@ -7,6 +7,7 @@ Stack used in this project:
 - NextJS;
 - Jest and React Testing Library for testings;
 - GraphQL
+- Tailwind css
 
 This application has public and protected routes. Those are listed bellow:
 
