@@ -9,7 +9,15 @@ module.exports = {
     './src/**/*.{js,ts,jsx,tsx,mdx}'
   ],
   theme: {
-    extend: {}
+    backgroundImage: {
+      hero: "url('../assets/bgAdmin.jpg')"
+    },
+    extend: {
+      fontFamily: {
+        gotham: ['var(--font-gotham)'],
+        minion: ['var(--font-minion)']
+      }
+    }
   },
   plugins: []
 };
