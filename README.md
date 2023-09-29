@@ -27,3 +27,11 @@ yarn dev
 ```
 
 In total 9 tests were created to ensure the application is running as expected.
+
+## Running the tests
+
+```bash
+npm test
+#or
+yarn test
+```
